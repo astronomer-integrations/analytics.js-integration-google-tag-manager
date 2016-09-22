@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-google-tag-manager",
+  "name": "@astronomerio/analytics.js-integration-google-tag-manager",
   "description": "The Google Tag Manager analytics.js integration.",
   "version": "2.2.0",
   "keywords": [
