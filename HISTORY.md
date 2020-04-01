@@ -1,3 +1,17 @@
+2.5.0 / 2017-04-27
+==================
+
+  * Remove assumesPageView option.
+
+2.4.0 / 2017-03-29
+==================
+
+  * Add support for environment option
+
+2.3.0 / 2016-11-07
+==================
+
+  * Bump analytics.js-integration to ^3.x which includes fix for assumePageview 
 
 2.2.0 / 2016-08-01
 ==================
